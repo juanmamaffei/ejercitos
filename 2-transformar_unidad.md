@@ -28,3 +28,16 @@ Se han supuesto en el paso 1, como precondiciones al método **transformar unida
 3. El jugador elige transformar un caballero.
 4. Se devuelve el mensaje "No se puede transformar esta unidad".
 
+## Diagramas de clase
+
+### Caso 1
+
+![img](out/diag/transformar/transformar.png)
+
+### Caso 2
+
+![img](out/diag/transformar/transformar-1.png)
+
+### Caso 3
+
+![img](out/diag/transformar/transformar-2.png)

@@ -1,1 +1,3 @@
-![img](out/diag/diagramas/diagramas.png)
+# Diagrama de clases
+
+![img](out/diag/clases/clases.png)
