@@ -3,6 +3,10 @@
 - [X] [Diagrama de clases](1-diagrama_de_clases.md).
 - [X] [Diagrama de secuencia de la operación "transformar unidad"](2-transformar_unidad.md).
 - [ ] Implementación de la operación "transformar unidad".
+  - [X] Clase Ejército.
+  - [x] Clase Unidad (y subclases Piquero, Arquero y Caballero).
+  - [X] Clase Civilización (y subclases Ingleses, Bizantinos y Chinos).
+  - [ ] Clase Batalla.
 
 **Tiempo máximo**: 45 minutos.
 
