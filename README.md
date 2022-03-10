@@ -30,7 +30,7 @@
 
 Para probar la implementación, se puede clonar el repositorio y ejecutar el archivo [./code/main.rb](code/main.rb).
 
-También se puede visualizar en repl.it.
+También se puede visualizar en [repl.it](https://replit.com/@juanmamaffei/Ejercitos?v=1\).
 
 https://user-images.githubusercontent.com/20209667/157727041-4c05d0e4-66e4-4e65-90a2-435ac7e6aabe.mp4
 
