@@ -7,8 +7,6 @@
   - [x] [Clase Unidad (y subclases Piquero, Arquero y Caballero)](code/unidad.rb).
   - [X] [Clase Civilización (y subclases Ingleses, Bizantinos y Chinos)](code/civilizacion.rb).
 
-Para probar la implementación, se puede clonar el repositorio y ejecutar el archivo [./code/main.rb](code/main.rb).
-
 **Tiempo máximo**: 45 minutos.
 
 ## Próximos pasos
@@ -27,3 +25,13 @@ Para probar la implementación, se puede clonar el repositorio y ejecutar el arc
 - [ ] Escribir pruebas unitarias.
 - [ ] Escribir pruebas de integración.
 - [ ] Refactorizar.
+
+## Simulador
+
+Para probar la implementación, se puede clonar el repositorio y ejecutar el archivo [./code/main.rb](code/main.rb).
+
+También se puede visualizar en repl.it.
+
+![video](./assets/simulador.mp4)
+
+[Video](assets/simulador.mp4)
