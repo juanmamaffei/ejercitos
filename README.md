@@ -32,6 +32,6 @@ Para probar la implementación, se puede clonar el repositorio y ejecutar el arc
 
 También se puede visualizar en repl.it.
 
-![video](./assets/simulador.mp4)
+https://user-images.githubusercontent.com/20209667/157727041-4c05d0e4-66e4-4e65-90a2-435ac7e6aabe.mp4
 
-[Video](assets/simulador.mp4)
+[Video](assets/video.mp4)
