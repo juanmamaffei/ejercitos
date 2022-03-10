@@ -1,6 +1,6 @@
 # Amalgama Challenge
 
-- [ ] Diagrama de clases.
+- [X] [Diagrama de clases](1-diagrama_de_clases.md).
 - [ ] Diagrama de secuencia de la operación "transformar unidad".
 - [ ] Implementación de la operación "transformar unidad".
 

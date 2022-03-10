@@ -1,0 +1,1 @@
+![img](out/diag/diagramas/diagramas.png)
