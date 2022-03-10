@@ -1,5 +1,7 @@
 # Operación "entrenar unidad"
 
+[Volver](../ejercitos/README.md)
+
 ## Caso de uso
 
 1. Se tiene un ejército de ingleses con 10 piqueros, 10 arqueros y 10 caballeros.

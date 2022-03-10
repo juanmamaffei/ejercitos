@@ -1,10 +1,12 @@
 # Operación "transformar unidad"
 
+[Volver](../ejercitos/README.md)
+
 ## Casos de uso
 
-Se indican los *happy paths* en la lista numerada y un *alternate paths* en las sublistas.
+Para los tres casos se supone un *happy path* con un *alternate path* en los casos 1 y 2 (paso 4).
 
-Se han supuesto en el paso 1, como precondiciones al método **transformar unidad**, que existe un ejército con sus unidades creadas. Omitir esto puede dar paso a pensar en otros *alternate paths* (por ejemplo, qué ocurre cuando se pide transformar una unidad inexistente)
+Se han establecido las precondiciones en los pasos 1 de cada caso. Omitir esto puede dar paso a pensar en otros *alternate paths* (por ejemplo, qué ocurre cuando se pide transformar una unidad inexistente)
 
 ### Caso 1
 

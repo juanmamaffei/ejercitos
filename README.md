@@ -9,6 +9,11 @@
 
 **Tiempo máximo**: 45 minutos.
 
+## Bonus
+
+- [Diagrama de secuencia de la operación "entrenar unidad"](3-entrenar_unidad.md).
+- [Diagrama de secuencia de la operación "¡ir a una batalla!"](4-batallas.md)
+
 ## Próximos pasos
 
 - [ ] **REVISIÓN DEL DIAGRAMA DE CLASES Y POSIBLE REFACTORING**. Por ejemplo, es posible utilizar enumeradores en vez de clases tanto para las unidades como las civilizaciones. Deberían analizarse las posibilidades de expansión para verificar si es mejor seguir empleando objetos individuales o bien enumeradores.

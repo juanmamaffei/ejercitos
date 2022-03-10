@@ -11,7 +11,7 @@
       # gastarOro(Integer)
       + batallaPerdida()
       + batallaGanada()
-      + batallaEmpatada
+      + batallaEmpatada()
       - ganarOro()
       - perderMejorUnidad()
       - crearUnidades()
