@@ -18,12 +18,12 @@ Para probar la implementación, se puede clonar el repositorio y ejecutar el arc
 - [X] Diagrama de secuencia para la operación "ir a la batalla".
 - [X] Diagrama de secuencia para la operación "consultar historial".
 - [ ] Implementación en Ruby.
-  - [ ] Clases.
-  - [ ] Transformar unidad.
-  - [ ] Entrenar unidad.
+  - [X] Clases.
+  - [X] Transformar unidad.
+  - [X] Entrenar unidad.
   - [ ] Ir a la batalla.
   - [ ] Consultar batalla.
+  - [X] Construir un simulador.
 - [ ] Escribir pruebas unitarias.
 - [ ] Escribir pruebas de integración.
 - [ ] Refactorizar.
-- [ ] Construir un simulador.
