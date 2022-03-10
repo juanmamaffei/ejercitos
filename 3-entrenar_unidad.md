@@ -1,6 +1,6 @@
 # Operación "entrenar unidad"
 
-[Volver](../ejercitos/README.md)
+[Volver](README.md)
 
 ## Caso de uso
 

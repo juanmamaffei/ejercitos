@@ -1,6 +1,6 @@
 ## Operación "ir a la batalla"
 
-[Volver](../ejercitos/README.md)
+[Volver](README.md)
 
 ### Caso de uso 1 (alguien gana)
 

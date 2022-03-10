@@ -1,5 +1,5 @@
 # Diagrama de clases
 
-[Volver](../ejercitos/README.md)
+[Volver](README.md)
 
 ![img](out/diag/clases/clases.png)

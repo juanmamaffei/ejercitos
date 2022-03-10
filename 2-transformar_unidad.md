@@ -1,6 +1,6 @@
 # Operación "transformar unidad"
 
-[Volver](../ejercitos/README.md)
+[Volver](README.md)
 
 ## Casos de uso
 
